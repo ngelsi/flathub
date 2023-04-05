@@ -30,8 +30,8 @@
       "sources": [
         {
           "type": "file",
-          "url": "https://github.com/ngelsi/tsuki-tag-native/releases/download/v.0.9.2/tsukitag-linux-x64-uncompressed-v092.tar.gz",
-          "sha256": "d9e0f22bb27a2293fdf3634b3f98631a7bc0f0227204a972c2414e1162230438",
+          "url": "https://github.com/ngelsi/tsuki-tag-native/releases/download/v0.9.5/tsukitag-linux-x64-uncompressed-v095.tar.gz",
+          "sha256": "fdc7494c26e78406820848be5c792bab7de9b92d6ad76da6379a7b61b74d6d3b",
           "dest-filename": "tsukitag.tar.gz"
         },
         {
